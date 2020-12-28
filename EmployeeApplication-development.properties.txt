@@ -1,1 +1,1 @@
-msg=this is from development file
+msg = Hello world - this is from config server - Development Environment
